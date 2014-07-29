@@ -1,0 +1,11 @@
+{
+    "module": "payload",
+    "name": "Module Name",
+    "version": "Module Version",
+    "description": "Module Description",
+    "author": "Module Author",
+    "references": {},
+    "license": "Module License",
+    "arch": "Architecture",
+    "payload": "Payload content"
+}
