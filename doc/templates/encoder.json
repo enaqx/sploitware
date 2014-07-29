@@ -1,0 +1,12 @@
+{
+    "module": "encoder",
+    "name": "Module Name",
+    "version": "Module Version",
+    "description": "Module Description",
+    "author": "Module Author",
+    "references": [],
+    "license": "Module License",
+    "arch": "Architecture",
+    "block": "Block to encode",
+    "print_status": "Module Print Status"
+}
