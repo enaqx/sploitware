@@ -4,8 +4,8 @@
     "version": "Module Version",
     "description": "Module Description",
     "author": "Module Author",
-    "references": [],
+    "references": {},
     "license": "Module License",
-    "actions": [],
+    "actions": {},
     "print_status": "Module Print Status"
 }
