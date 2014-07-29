@@ -1,0 +1,11 @@
+{
+    "module": "auxiliary",
+    "name": "Module Name",
+    "version": "Module Version",
+    "description": "Module Description",
+    "author": "Maodule Author",
+    "references": [],
+    "license": "Module License",
+    "actions": [],
+    "print_status": "Module Print Status"
+}
