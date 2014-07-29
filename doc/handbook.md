@@ -3,6 +3,7 @@ Sploit middleware:
  + JSON
  + UI (Web)
 
+
  + Modules:
    + Auxiliary modules
    + Encoders
@@ -10,6 +11,7 @@ Sploit middleware:
    + Payloads
    + NOPs
    + Post-exploitation
+
 
  + Admin tools (RPC Connection)
  + Crawlers
