@@ -1,11 +1,20 @@
 Sploit middleware:
- * Database, JSON
- * Encoders
- * Exploits
- * Payloads
- * NOPs
- * Auxiliary modules
- * Post-exploitation
- * Plugins
- * Scripts
- * Tools
+ * Database
+ * JSON
+ * UI (Web)
+
+ * Modules:
+   * Auxiliary modules
+   * Encoders
+   * Exploits
+   * Payloads
+   * NOPs
+   * Post-exploitation
+
+ * Admin tools (RPC Connection)
+ * Crawlers
+ * Fuzzers
+ * Password Crackers
+ * Wordlists
+ * File Scanners (elf, pe, macho)
+ * NodeAsm
