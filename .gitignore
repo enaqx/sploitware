@@ -1,1 +1,27 @@
+# Local folder for node modules
 node_modules
+
+# Temporary files directory
+tmp
+
+# Code coverage storage directory
+coverage
+
+# Git bundle archives
+.bundle
+
+# Jetbrains IDE storage directory
+.idea
+
+# Sublime Text editor storage
+.sublime-project
+
+# Microsoft Visual Studio files
+*.suo
+*.sdf
+*.opensdf
+*.user
+
+# Mac OS X files
+.DS_Store
+
