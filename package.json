@@ -15,7 +15,8 @@
         "mocha": "^1.17.0",
         "jslint": "^0.6.1",
         "istanbul": "^0.3.0",
-        "should": "^4.0.4"
+        "should": "^4.0.4",
+        "optparse": "^1.0.5"
     },
     "engines": {
         "node": ">= 0.11.9"
