@@ -7,6 +7,9 @@ tmp
 # Code coverage storage directory
 coverage
 
+# Benchmarks storage directory
+benchmarks
+
 # Git bundle archives
 .bundle
 
