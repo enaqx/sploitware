@@ -29,11 +29,11 @@ benchmarks
 .DS_Store
 
 # Fonts
-.woff
-.ttf
-.eot
-.svg
+public/js/*.woff
+public/js/*.ttf
+public/js/*.eot
+public/js/*.svg
 
 # Bundled front-end
 public/js/bundle.js
-public/js/bundle.map
+public/js/bundle.js.map
