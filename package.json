@@ -2,7 +2,6 @@
   "name": "sploitware",
   "version": "0.0.1",
   "description": "Vulnerability tracker",
-  "main": "sploit.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/enaqx/sploitware"
