@@ -20,11 +20,20 @@ benchmarks
 .sublime-project
 
 # Microsoft Visual Studio files
-*.suo
-*.sdf
-*.opensdf
-*.user
+.suo
+.sdf
+.opensdf
+.user
 
 # Mac OS X files
 .DS_Store
 
+# Fonts
+.woff
+.ttf
+.eot
+.svg
+
+# Bundled front-end
+public/js/bundle.js
+public/js/bundle.map
