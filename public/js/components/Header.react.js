@@ -2,6 +2,8 @@
  * Header/Menu component
  */
 
+ "use strict";
+
 var React = require('react');
 require('../../css/bootstrap.min.css');
 

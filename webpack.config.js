@@ -4,10 +4,12 @@
 
 module.exports = {
   entry: './public/js/app.js',
+
   output: {
     path: './public/js/',
     filename: 'bundle.js'       
   },
+
   module: {
     loaders: [
       { test: /\.js$/, loader: 'jsx-loader?harmony' },
@@ -20,6 +22,7 @@ module.exports = {
       { test: /\.svg(\?v=\d+\.\d+\.\d+)?$/, loader: "url?limit=10000&minetype=image/svg+xml" }
     ]
   },
+  
   resolve: {
     extensions: ['', '.js', '.json'] 
   },
