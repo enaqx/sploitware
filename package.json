@@ -21,11 +21,12 @@
   },
   "devDependencies": {
     "jsx-loader": "^0.12.1",
+    "nodemon": "^1.2.1",
     "webpack": "^1.4.13"
   },
   "scripts": {
     "build": "./node_modules/.bin/webpack -p",
     "build-dev": "./node_modules/.bin/webpack -d --watch",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   }
 }
