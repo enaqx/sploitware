@@ -25,8 +25,8 @@
     "webpack": "^1.4.13"
   },
   "scripts": {
-    "build": "./node_modules/.bin/webpack -p",
-    "build-dev": "./node_modules/.bin/webpack -d --watch",
+    "build": "webpack -p",
+    "build-dev": "webpack -d --watch",
     "start": "nodemon server.js"
   }
 }
