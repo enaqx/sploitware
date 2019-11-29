@@ -37,3 +37,7 @@ public/js/*.svg
 # Bundled front-end
 public/js/bundle.js
 public/js/bundle.js.map
+
+# Data
+api/data/cvelist
+
